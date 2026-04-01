@@ -1,0 +1,23 @@
+# LLM (Gemini)
+google-genai
+
+# Environment variables
+python-dotenv
+
+# UI
+streamlit
+
+# PDF parsing
+pdfplumber
+
+# Tokenization
+tiktoken
+
+# Numerical computation
+numpy
+scipy
+
+# Hybrid retrieval (BM25)
+rank-bm25
+
+plotly
